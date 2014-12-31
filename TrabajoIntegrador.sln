@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TrabajoIntegrador-master", "http://localhost:37309", "{0F0AC13A-5656-4D55-A868-4BF4B88257A8}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TrabajoIntegrador", "http://localhost:37309", "{0F0AC13A-5656-4D55-A868-4BF4B88257A8}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_37309"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Proyectos\TrabajoIntegrador-master\"
+		Debug.AspNetCompiler.PhysicalPath = "\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_37309\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_37309"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Proyectos\TrabajoIntegrador-master\"
+		Release.AspNetCompiler.PhysicalPath = "\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_37309\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\..\..\..\..\Proyectos\TrabajoIntegrador-master\"
+		SlnRelativePath = "\"
 	EndProjectSection
 EndProject
 Global
